@@ -9,6 +9,26 @@ A Data Analytics Project
 **Output:** `GlobalYouTubeStatistics_Cleaned.csv` (978 rows × 46 columns)
 
 ---
+# Dashboard Preview
+
+## Interactive Dashboard Screenshots
+
+<p align="center">
+  <img src="dashboard_images/1.png" width="800"><br><br>
+  <img src="dashboard_images/2.png" width="800"><br><br>
+  <img src="dashboard_images/3.png" width="800"><br><br>
+  <img src="dashboard_images/4.png" width="800"><br><br>
+  <img src="dashboard_images/5.png" width="800"><br><br>
+  <img src="dashboard_images/6.png" width="800"><br><br>
+  <img src="dashboard_images/7.png" width="800"><br><br>
+  <img src="dashboard_images/8.png" width="800"><br><br>
+  <img src="dashboard_images/9.png" width="800"><br><br>
+  <img src="dashboard_images/10.png" width="800"><br><br>
+  <img src="dashboard_images/11.png" width="800"><br><br>
+  <img src="dashboard_images/12.png" width="800">
+</p>
+
+---
 
 ## 1. Loading the Dataset
 
