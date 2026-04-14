@@ -16,7 +16,6 @@ A Data Analytics Project
 <p align="center">
   <img src="dashboard_images/1.png" width="800"><br><br>
   <img src="dashboard_images/2.png" width="800"><br><br>
-  <img src="dashboard_images/3.png" width="800"><br><br>
   <img src="dashboard_images/4.png" width="800"><br><br>
   <img src="dashboard_images/5.png" width="800"><br><br>
   <img src="dashboard_images/6.png" width="800"><br><br>
